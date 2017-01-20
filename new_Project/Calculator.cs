@@ -4,6 +4,7 @@
     {
         public Calculator()
         {
+            var aa = "";
         }
 
         public int Input1 { get; internal set; }
